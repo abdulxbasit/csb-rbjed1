@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1fc4fc09b09ca0682911345d2a833fb",
+    "revision": "196299f01c68e0c819a2da64f8191831",
     "url": "https://abdulxbasit.github.io/csb-rbjed1/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://abdulxbasit.github.io/csb-rbjed1/static/js/2.fc726699.chunk.js"
   },
   {
-    "revision": "10019bc41481ce922644",
-    "url": "https://abdulxbasit.github.io/csb-rbjed1/static/js/main.bae959b1.chunk.js"
+    "revision": "c2bc740f61c097225314",
+    "url": "https://abdulxbasit.github.io/csb-rbjed1/static/js/main.8a327a3b.chunk.js"
   },
   {
     "revision": "3d76a8d5c4b0f1e8bb79",
